@@ -1,6 +1,6 @@
 # AngularJS Phone Catalog Tutorial Application
 Read By Devd
-
+ReEdited Readme
 ## Overview
 
 This application takes the developer through the process of building a web-application using
