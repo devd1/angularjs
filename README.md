@@ -1,5 +1,5 @@
 # AngularJS Phone Catalog Tutorial Application
-
+Read By Devd
 
 ## Overview
 
